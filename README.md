@@ -2,7 +2,7 @@
 
 I'm making this so that there's a public record of previous Netsoc committees, because that's something I don't want to disappear. This list is also hosted on our [website](https://netsoc.ucd.ie/about/history/), but websites get redesigned and information gets lost. By putting this up in the public, hopefully it doesn't get lost.
 
-This information was obtained by me from my memory, the Wayback Machine/Internet Archive, and from talking to some past committee members. Some years are missing and some information might be incorrect: feel free to make changes. Thanks to @ash-xyz for formatting the list in Markdown.
+This information was obtained by me from my memory, the Wayback Machine/Internet Archive, and from talking to some past committee members. Some years are missing and some information might be incorrect: feel free to make changes. Thanks to [@ash-xyz](https://github.com/ash-xyz/) for formatting the list in Markdown.
 
 Now, with that out of the way...
 
