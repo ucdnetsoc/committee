@@ -9,7 +9,7 @@ Now, with that out of the way...
 ### Committee 2019/20:
 * Auditor: Thomas Creavin
 * Vice Auditor: Nicole McCabe
-* Treasurer: Liew Xuan
+* Treasurer: Emily Liew
 * Assistant Secretary: Oisín Quinn
 * Head SysAdmin: Adrian Wennberg
 * Liaison Officer: Darragh Clarke
@@ -66,6 +66,9 @@ Now, with that out of the way...
 ### Committee 2012/13:
 
 * Auditor: Balazs Pete
+* Secretary: Sandra Collins
+* Treasurer: Conor Kevin O'Nolan
+* Head SysAdmin: Thomas Dunne
 
 ### Committee 2011/12:
 
