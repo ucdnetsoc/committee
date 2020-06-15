@@ -68,7 +68,7 @@ Now, with that out of the way...
 * Auditor: Balazs Pete
 * Secretary: Sandra Collins
 * Treasurer: Conor Kevin O'Nolan
-* Head SysAdmin: Thomas Dunne
+* Head SysAdmin: Sam Dunne
 
 ### Committee 2011/12:
 
