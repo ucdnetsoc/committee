@@ -6,6 +6,18 @@ This information was obtained by me from my memory, the Wayback Machine/Internet
 
 Now, with that out of the way...
 
+### Committee 2020/21
+* Auditor: Nicole McCabe
+* Vice-Auditor: Séan Lacey
+* Treasurer: Emily Liew
+* Ex-Officio: Thomas Creavin
+* Public Relations Officer: Karen Kelly
+* Graphic Designer: Daniel Portela Byrne
+* Events Officers: Ashraf Ali & John Keegan
+* Ordinary Committee Member: Logan Czernel, Finbar Ó Deaghaidh, Gerard Colman
+* Head SysAdmin: David Loftus
+* SysAdmins: John O'Donnell, Reuben Mulligan, Sahil Mehra, Evan Spendlove
+
 ### Committee 2019/20:
 * Auditor: Thomas Creavin
 * Vice Auditor: Nicole McCabe
