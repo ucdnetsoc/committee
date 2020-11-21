@@ -102,10 +102,10 @@ Now, with that out of the way...
 
 ### Committee 2009/10:
 
-* Auditor: Alvis "omgsplosion" Duong
-* Secretary: Jason "Glitch" Hasset
-* Treasurer: Warren "DrissX" Hann
-* Head SysAdmin: Aidan "Mudkipz" Church
+* Auditor: Alvis Duong
+* Secretary: Jason Hasset
+* Treasurer: Warren Hann
+* Head SysAdmin: Aidan Church
 * Ops team: Dave Murphy, Keith Byrne, Chris Duffin
 
 ### Committee 2008/09:
