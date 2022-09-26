@@ -201,30 +201,30 @@ Now, with that out of the way...
 ### Committee 1999/00
 
 * Auditor: Liam Fitzgerald
-* Secretary: Louise O Brief
-* Treasurer: Brendan O Hare
+* Secretary: Louise O' Brien
+* Treasurer: Brendan O' Hare
 * Head SysAdmin: Albert White
-* Ordinary Committee Member: Niall Butler, John O Mahogany, John Malone
-* SysAdmins: Paddy Doyle, Paul Mccabe, Rob Hayes, Paul Fitzpatrick
-* Webmaster Tadhg O’Higgins
+* Ordinary Committee Member: Niall Butler, John O' Mahony, John Malone
+* SysAdmins: Paddy Doyle, Paul McCabe, Rob Hayes, Paul Fitzpatrick
+* Webmaster: Tadhg O’Higgins
 
 ### Committee 1998/99
 
 * Auditor: Mark Hargaden
 * Secretary: Liam Fitzgerald
-* Treasurer: James O’Brien
+* Treasurer: James O’ Brien
 * Head SysAdmin: Andrew McCarthy
 * Ordinary Committee Member: Niall Butler, Alastair Donlon, Nova Sharkey
-* SysAdmins: Paddy Doyle, Paul McClave, Rob Hayes, Albert White, Finbar O’Kane
+* SysAdmins: Paddy Doyle, Paul McClave, Rob Hayes, Albert White, Finbarr O’Kane
 * Webmaster: Tadhg O’Higgins
 
 ### Committee 1997/98
 
 * Auditor: Roisin McCool
 * Secretary: Albert White
-* Treasurer: Alastair Donjon
-* Head SysAdmin: Dave O’Really
-* Ordinary Committee Member: Adam Egan, John Clifford, Mark Harden
+* Treasurer: Alastair Donlon
+* Head SysAdmin: David O’ Reilly
+* Ordinary Committee Member: Adam Egan, John Clifford, Mark Hargaden
 * SysAdmins: Niall Richard Murphy, Steve Fegan, David Jordan, Daire Byrne
   
 ### Committee 1996/97
@@ -233,4 +233,7 @@ Now, with that out of the way...
 
 ### Committee 1995/96
 
-* Auditor: Niall Murphy
+* Auditor: Niall (Richard) Murphy
+* Head SysAdmin: Stephen Fegan
+* OCMs: David Jordan, Peter Cox, Fergal Daly, Niall (John) Murphy, Shakira Kelly, Kevin Roche, Tadhg O' Higgins
+* Webmaster: Tim Foister
