@@ -6,6 +6,18 @@ This information was obtained by me from my memory, the Wayback Machine/Internet
 
 Now, with that out of the way...
 
+### Committee 2022/23:
+
+* Auditor: Chris Thomas
+* Vice Auditor: Kar Yen Yap
+* Treasurer: Yosra Hashim
+* Ex Officio: Ashraf Ali
+* Head SysAdmin: Gavin Guthrie
+* Public Relations Officer: Jasmine Ogun
+* Events Officers: Cathal Poon, Nicole McCabe, Natalia Winkel
+* Graphic Designer: , Karol Wójcik, Fionn Murphy
+* Ordinary Committee Members: Chen Wei Lin, Atseosi Idogho
+
 ### Committee 2021/22
 
 * Auditor: Ashraf Ali
