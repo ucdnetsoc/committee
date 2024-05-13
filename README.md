@@ -30,6 +30,7 @@ Now, with that out of the way...
 * Events Officers: Cathal Poon, Nicole McCabe, Natalia Winkel
 * Graphic Designer: , Karol Wójcik, Fionn Murphy
 * Ordinary Committee Members: Chen Wei Lin, Atseosi Idogho
+* Sysadmins: Oscar Yeoh, Cameron Kenny, Eoin Creavin, Mark Doyle
 
 ### Committee 2021/22
 
@@ -42,6 +43,7 @@ Now, with that out of the way...
 * Events Officers: Seán Lacey, Atseosi Idogho, Chen Wei Lin
 * Graphic Designer: Daniel Portela Byrne, Karol Wójcik
 * Ordinary Committee Members: Sam Cy, Cathal Poon
+* Sysadmins: Oscar Yeoh, Cameron Kenny, Eoin Creavin, Mark Doyle, Gavin Gunthrie
 
 ### Committee 2020/21
 
