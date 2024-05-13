@@ -6,6 +6,19 @@ This information was obtained by me from my memory, the Wayback Machine/Internet
 
 Now, with that out of the way...
 
+### Committee 2023/24:
+
+* Auditor: Fionn Murphy
+* Vice Auditor: Pallavi Thapliyal
+* Treasurer: Kushagra Mittal
+* Ex Officio: Chris Thomas
+* Head SysAdmin: Eoin Creavin
+* Public Relations Officer: Jasmine Ogun
+* Events Officers: Tamoghno Banerjee, Bhumit Kaushik
+* Graphic Designer: Malhar Bhattacharya, Bokang Ramatla
+* Ordinary Committee Members: Eddie Antonio Santos
+* Sysadmins: Mattia Dus, Prakash Jha, Luke King, Austen Ugweches II, Hari Mohan
+
 ### Committee 2022/23:
 
 * Auditor: Chris Thomas
@@ -119,7 +132,7 @@ Now, with that out of the way...
 * Ordinary Committee Member: Chris Salij, Eoin Murphy
 * Head SysAdmin: Ken O'Brien
 * SysAdmin: Sam Dunne
-  
+
 ### Committee 2010/11
 
 * Auditor: Aidan Church
@@ -144,7 +157,7 @@ Now, with that out of the way...
 * Treasurer: Laurence Judge
 * Head SysAdmin: Kenneth O’Brien
 * Ordinary Committee Member: Dave Murphy, Tim Brosnan, Ian Mulholland, Ursula Redmond
-  
+
 ### Committee 2007/08
 
 * Auditor: Chris Nicholls
@@ -238,7 +251,7 @@ Now, with that out of the way...
 * Head SysAdmin: David O’ Reilly
 * Ordinary Committee Member: Adam Egan, John Clifford, Mark Hargaden
 * SysAdmins: Niall Richard Murphy, Steve Fegan, David Jordan, Daire Byrne
-  
+
 ### Committee 1996/97
 
 * Auditor: Stephen Fegan / Fergal Daly
